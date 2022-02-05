@@ -1,2 +1,3 @@
+include ':shadow-view'
 include ':app'
 rootProject.name = "Shadow View"
